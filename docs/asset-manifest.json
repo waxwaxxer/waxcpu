@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/waxcpu/static/css/main.a617e044.chunk.css",
-    "main.js": "/waxcpu/static/js/main.2649b4f5.chunk.js",
-    "main.js.map": "/waxcpu/static/js/main.2649b4f5.chunk.js.map",
+    "main.js": "/waxcpu/static/js/main.2056b628.chunk.js",
+    "main.js.map": "/waxcpu/static/js/main.2056b628.chunk.js.map",
     "runtime-main.js": "/waxcpu/static/js/runtime-main.4ff1126b.js",
     "runtime-main.js.map": "/waxcpu/static/js/runtime-main.4ff1126b.js.map",
     "static/js/2.6bb9d2e4.chunk.js": "/waxcpu/static/js/2.6bb9d2e4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4ff1126b.js",
     "static/js/2.6bb9d2e4.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.2649b4f5.chunk.js"
+    "static/js/main.2056b628.chunk.js"
   ]
 }
