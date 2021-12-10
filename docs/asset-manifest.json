@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/waxcpu/static/js/main.68b3f62e.chunk.js",
+    "main.js": "/waxcpu/static/js/main.78603e86.chunk.js",
     "runtime-main.js": "/waxcpu/static/js/runtime-main.b6d16bfb.js",
     "static/js/2.f2acb61e.chunk.js": "/waxcpu/static/js/2.f2acb61e.chunk.js",
     "static/js/3.150c6c59.chunk.js": "/waxcpu/static/js/3.150c6c59.chunk.js",
@@ -10,6 +10,6 @@
   "entrypoints": [
     "static/js/runtime-main.b6d16bfb.js",
     "static/js/2.f2acb61e.chunk.js",
-    "static/js/main.68b3f62e.chunk.js"
+    "static/js/main.78603e86.chunk.js"
   ]
 }
